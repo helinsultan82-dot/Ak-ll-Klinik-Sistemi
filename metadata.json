@@ -1,0 +1,7 @@
+{
+  "name": "Randevu Pro - Akıllı Randevu Sistemi",
+  "description": "Yapay zeka destekli, modern klinik randevu ve yönetim sistemi. Hastalar için semptom analizi ve randevu oluşturma, doktorlar için yönetim paneli içerir.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
